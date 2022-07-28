@@ -1,0 +1,1 @@
+[plaidml](https://plaidml.github.io/plaidml/docs/install.html#macos)
